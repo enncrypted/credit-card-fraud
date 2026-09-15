@@ -7,3 +7,5 @@ tensorflow
 deap
 tabulate
 jupyter
+setuptools
+ydata-profiling
